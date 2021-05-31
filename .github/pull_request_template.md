@@ -8,7 +8,7 @@
 
 ## Description
 
-Give a detailed explanation of what this PR does. Rememeber to provide context!
+Give a detailed explanation of what this PR does. Remember to provide context!
 
 ## Screenshots (if applicable)
 
