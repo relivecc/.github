@@ -1,4 +1,4 @@
-## Asana Link
+<!-- Remember to put Linear Issue ID in the PR title -->
 
 ## What type of PR is this?
 <!-- Check all applicable -->
