@@ -7,11 +7,11 @@
 Contributes to LINEAR_ISSUE_ID
 
 ## What type of PR is this?
-<!-- Check all applicable -->
-- [ ] Feature
-- [ ] Bug fix
-- [ ] Refactor
-- [ ] Experiment update
+<!-- Keep what is applicable -->
+- Feature
+- Bug fix
+- Refactor
+- Experiment update
 
 ## Description
 
