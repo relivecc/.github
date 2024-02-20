@@ -14,8 +14,7 @@ Contributes to LINEAR_ISSUE_ID
 - Experiment update
 
 ## Description
-
-Give a detailed explanation of what this PR does. Remember to provide context!
+<!-- Give a detailed explanation of what this PR does. Remember to provide context.-->
 
 ## Screenshots
 <!-- If applicable -->
